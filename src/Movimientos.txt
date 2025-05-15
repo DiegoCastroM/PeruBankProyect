@@ -1,0 +1,12 @@
+27/04/2025 19:55|Transferencia|123.0|1
+27/04/2025 20:13|Transferencia|100.0|49
+27/04/2025 20:47|Transferencia|-200.0|3
+27/04/2025 20:51|Transferencia|-100.0|1
+27/04/2025 20:54|Transferencia|-200.0|1
+27/04/2025 23:06|Transferencia|-600.00|587
+27/04/2025 23:07|Transferencia|-1000.00|863
+27/04/2025 23:09|Transferencia|-400.00|182
+27/04/2025 23:12|Transferencia|-500.00|863
+27/04/2025 23:12|Transferencia|500.00|863
+27/04/2025 23:13|Transferencia|-100.00|182
+27/04/2025 23:13|Transferencia|100.00|3
